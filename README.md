@@ -3,8 +3,8 @@
  
  
  
-**Fake News Detection Report **
-**Objective **
+## Fake News Detection Report
+## Objective
 The objective of this project is to develop a Semantic Classification model. We utilize the Word2Vec method to extract semantic relationships from news text and train supervised models to categorize text based on its meaning rather than just syntax. This project demonstrates how understanding textual meaning helps in making more accurate and efficient decisions. 
 Business Objective 
 The spread of fake news has become a major challenge in the digital age. With the overwhelming number of news articles published daily, distinguishing between credible and misleading information is increasingly difficult. Automatic fake news detection systems are necessary to reduce misinformation and protect public trust. 
