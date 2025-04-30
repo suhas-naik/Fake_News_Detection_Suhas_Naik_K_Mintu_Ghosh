@@ -1,6 +1,5 @@
-# Fake_News_Detection_Suhas_Naik_K_Mintu_Ghosh
-## Fake_News_Detection
-## Suhas Naik K & Mintu Gosh
+# Fake_News_Detection
+# Suhas Naik K & Mintu Gosh
  
  
  
