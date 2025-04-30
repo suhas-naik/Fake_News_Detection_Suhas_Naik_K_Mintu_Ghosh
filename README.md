@@ -14,10 +14,16 @@ In this assignment, the goal is to build a Semantic Classification model using W
 Two datasets were provided: True.csv and Fake.csv. 
 Each dataset contained three columns: 
 •	title: Title of the news article 
+
 •	text: Full text of the news article 
-•	date: Date of publication Shapes of the datasets: 
+
+•	date: Date of publication 
+Shapes of the datasets: 
+
 •	True News: (21417, 3) 
-•	Fake News: (23502, 3) Additional Processing: 
+•	Fake News: (23502, 3) 
+
+Additional Processing: 
 •	A new column news_label was added: 
 o 	1 for True news o 	0 for Fake news 
 •	Both datasets were concatenated after adding the news_label column. 
